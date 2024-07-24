@@ -1,0 +1,30 @@
+body {background-color: black;
+}
+h1 {text-align: center;
+color: whitesmoke;
+}
+#ima1 {width: 40%;
+    margin-left: 30%;
+}
+h2 {text-align: center;
+color: whitesmoke;
+}
+#ima2 {width: 40%;
+    margin-left: 30%;
+}
+h3{text-align: center;
+color: whitesmoke;
+}
+#ima3 {width: 40%;
+ margin-left: 30%;   
+}
+h4{text-align: center;
+color: whitesmoke;
+}
+#ima4 {width: 40%;
+    margin-left: 30%;
+}
+#ima1 {border-radius: 30%;}
+ #ima2 {border-radius: 30%;}
+ #ima3 {border-radius: 30%;}
+ #ima4 {border-radius: 30%;}
